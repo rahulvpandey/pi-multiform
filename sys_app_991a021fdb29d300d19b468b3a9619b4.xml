@@ -3,6 +3,7 @@
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category/>
@@ -39,18 +40,22 @@
         <chunk_size_bytes>734003</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
+        <hash/>
         <image_height>783</image_height>
         <image_width>783</image_width>
         <size_bytes>13783</size_bytes>
         <size_compressed>892</size_compressed>
-        <state/>
+        <state>available</state>
         <sys_created_by>dylan.lindgren@snc</sys_created_by>
         <sys_created_on>2018-05-23 06:32:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>41e4bcbcdb96d300687c26b38a9619e3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>dylan.lindgren@snc</sys_updated_by>
-        <sys_updated_on>2018-05-23 06:32:48</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2020-03-30 18:03:48</sys_updated_on>
         <table_name>ZZ_YYsys_app</table_name>
         <table_sys_id>991a021fdb29d300d19b468b3a9619b4</table_sys_id>
     </sys_attachment>

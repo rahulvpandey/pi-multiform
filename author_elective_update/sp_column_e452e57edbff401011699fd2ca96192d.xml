@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">ec52e57edbff401011699fd2ca96192a</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:06:46</sys_created_on>
+        <sys_id>e452e57edbff401011699fd2ca96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+        <sys_update_name>sp_column_e452e57edbff401011699fd2ca96192d</sys_update_name>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:06:46</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</application>
+        <file_path/>
+        <instance_id>60fae41adb7393806578f22ebf9619a6</instance_id>
+        <instance_name>dev69837</instance_name>
+        <name>sp_column_e452e57edbff401011699fd2ca96192d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">ec52e57edbff401011699fd2ca96192a</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-03-30 17:06:46</sys_created_on><sys_id>e452e57edbff401011699fd2ca96192d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package><sys_policy/><sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope><sys_update_name>sp_column_e452e57edbff401011699fd2ca96192d</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-03-30 17:06:46</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>1912620910</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>575a0b12db33401011699fd2ca961989</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:06:46</sys_created_on>
+        <sys_id>a852e57edbff401011699fd2ca9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1712c68f0280000001</sys_recorded_at>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:06:46</sys_updated_on>
+        <type>Column</type>
+        <update_guid>e052e57e3eff4010eed261d01d9587c4</update_guid>
+        <update_guid_history>e052e57e3eff4010eed261d01d9587c4:1912620910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">2a53a1bedbff401011699fd2ca96198a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:11:17</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>64bafb31e23d4ce99c8886048fc853c1</sys_id>
+        <sys_metadata>e452e57edbff401011699fd2ca96192d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+        <sys_scope_delete display_value="">7773a1c2f86b42c0b88182099692e104</sys_scope_delete>
+        <sys_update_name>sp_column_e452e57edbff401011699fd2ca96192d</sys_update_name>
+        <sys_update_version display_value="sp_column_e452e57edbff401011699fd2ca96192d">a852e57edbff401011699fd2ca9619c4</sys_update_version>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:11:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

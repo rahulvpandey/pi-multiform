@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_pisn_multiform_sp_instance">
+    <x_pisn_multiform_sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <instructions><![CDATA[Please use the &#34;Open in platform&#34; link from the hamburger menu on this dialog to configure this widget.]]></instructions>
+        <order>1</order>
+        <progression_method>full</progression_method>
+        <record/>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e452e57edbff401011699fd2ca96192d</sp_column>
+        <sp_widget display_value="Multiform">52da025fdb29d300d19b468b3a961947</sp_widget>
+        <success_page/>
+        <sys_class_name>x_pisn_multiform_sp_instance</sys_class_name>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:06:53</sys_created_on>
+        <sys_id>0652e17edbff401011699fd2ca961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+        <sys_update_name>x_pisn_multiform_sp_instance_0652e17edbff401011699fd2ca961924</sys_update_name>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:06:53</sys_updated_on>
+        <table/>
+        <title/>
+        <url/>
+        <view/>
+        <widget_parameters/>
+    </x_pisn_multiform_sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=0652e17edbff401011699fd2ca961924"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</application>
+        <file_path/>
+        <instance_id>60fae41adb7393806578f22ebf9619a6</instance_id>
+        <instance_name>dev69837</instance_name>
+        <name>x_pisn_multiform_sp_instance_0652e17edbff401011699fd2ca961924</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_pisn_multiform_sp_instance"&gt;&lt;x_pisn_multiform_sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;instructions&gt;&lt;![CDATA[Please use the &amp;#34;Open in platform&amp;#34; link from the hamburger menu on this dialog to configure this widget.]]&gt;&lt;/instructions&gt;&lt;order&gt;1&lt;/order&gt;&lt;progression_method&gt;full&lt;/progression_method&gt;&lt;record/&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e452e57edbff401011699fd2ca96192d&lt;/sp_column&gt;&lt;sp_widget display_value="Multiform"&gt;52da025fdb29d300d19b468b3a961947&lt;/sp_widget&gt;&lt;success_page/&gt;&lt;sys_class_name&gt;x_pisn_multiform_sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rahul&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-30 17:06:53&lt;/sys_created_on&gt;&lt;sys_id&gt;0652e17edbff401011699fd2ca961924&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Multiform" source="x_pisn_multiform"&gt;991a021fdb29d300d19b468b3a9619b4&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Multiform"&gt;991a021fdb29d300d19b468b3a9619b4&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_pisn_multiform_sp_instance_0652e17edbff401011699fd2ca961924&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rahul&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-30 17:06:53&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;title/&gt;&lt;url/&gt;&lt;view/&gt;&lt;widget_parameters/&gt;&lt;/x_pisn_multiform_sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0652e17edbff401011699fd2ca961924"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-500226581</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>575a0b12db33401011699fd2ca961989</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:06:53</sys_created_on>
+        <sys_id>8252297edbff401011699fd2ca961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1712c69087f0000001</sys_recorded_at>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:06:53</sys_updated_on>
+        <type>Instance of Multiform</type>
+        <update_guid>ca52297e49ff40105a438f9ec4fa3927</update_guid>
+        <update_guid_history>ca52297e49ff40105a438f9ec4fa3927:-500226581</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ac5325bedbff401011699fd2ca96195c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Rahul</sys_created_by>
+        <sys_created_on>2020-03-30 17:11:09</sys_created_on>
+        <sys_db_object display_value="" name="x_pisn_multiform_sp_instance">x_pisn_multiform_sp_instance</sys_db_object>
+        <sys_id>094657ccd662449482d7cfdb479f0490</sys_id>
+        <sys_metadata>0652e17edbff401011699fd2ca961924</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+        <sys_scope_delete display_value="">7773a1c2f86b42c0b88182099692e104</sys_scope_delete>
+        <sys_update_name>x_pisn_multiform_sp_instance_0652e17edbff401011699fd2ca961924</sys_update_name>
+        <sys_update_version display_value="x_pisn_multiform_sp_instance_0652e17edbff401011699fd2ca961924">8252297edbff401011699fd2ca961928</sys_update_version>
+        <sys_updated_by>Rahul</sys_updated_by>
+        <sys_updated_on>2020-03-30 17:11:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
